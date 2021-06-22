@@ -9,4 +9,6 @@ function randomComic ()
     elButton.innerText = comicData [nComic + 1];
 }
 
-elButton.addEventListener ("click", randomComic, false);
+//elImage.addEventListener ("click", randomComic, false);
+//elButton.addEventListener ("click", randomComic, false);
+window.addEventListener ("click", randomComic, false);
