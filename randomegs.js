@@ -12,3 +12,7 @@ function randomComic ()
 //elImage.addEventListener ("click", randomComic, false);
 //elButton.addEventListener ("click", randomComic, false);
 window.addEventListener ("click", randomComic, false);
+addEventListener ("keydown", function (e) {
+    if (e.key == " ")
+	randomComic ();
+}, false);
