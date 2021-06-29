@@ -16,3 +16,5 @@ For egsv2.cpp:
 $ g++ egsv2.cpp -lcurl ; ./a.out list2.txt
 
 egsv2 can handle continuing an egsv2 list or starting a new one.  ID and URL are not configured by the command line in the current state of the program, but are only continued from the file.
+
+egsv2 by default just uses ordinal numbers for the comics instead of offset ordinal numbers.
