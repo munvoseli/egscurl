@@ -2923,5 +2923,6 @@
 2923 https://www.egscomics.com/comic/balance-032 https://www.egscomics.com/comics/1624245764-bal-2106-21-032-sloiufo.png https://www.egscomics.com/comic/balance-031 https://www.egscomics.com/comic/balance-033
 2924 https://www.egscomics.com/comic/balance-033 https://www.egscomics.com/comics/1624425153-bal-2106-23-033-slogfgfo.png https://www.egscomics.com/comic/balance-032 https://www.egscomics.com/comic/balance-034
 2925 https://www.egscomics.com/comic/balance-034 https://www.egscomics.com/comics/1624603615-bal-2106-25-034-sfsdfo.png https://www.egscomics.com/comic/balance-033 https://www.egscomics.com/comic/balance-035
-2926 https://www.egscomics.com/comic/balance-035 https://www.egscomics.com/comics/1624848490-bal-2106-28-035-sfsfdghfgo.png https://www.egscomics.com/comic/balance-034 
+2926 https://www.egscomics.com/comic/balance-035 https://www.egscomics.com/comics/1624848490-bal-2106-28-035-sfsfdghfgo.png https://www.egscomics.com/comic/balance-034 https://www.egscomics.com/comic/balance-036
+2927 https://www.egscomics.com/comic/balance-036 https://www.egscomics.com/comics/1625032352-bal-2106-30-036-ssdfo.png https://www.egscomics.com/comic/balance-035 
 

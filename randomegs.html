@@ -5,14 +5,26 @@
       #button {
 	  display: block;
       }
+#flex-container {
+  display: flex;
+  height: 100px;
+}
+#flex-container button {
+  display: block;
+  flex-grow: 1;
+}
       html, body {
 	  margin: 0;
       }
     </style>
   </head>
   <body>
+<div id="flex-container">
+    <button id="prev">&lt;</button>
+    <button id="next">&gt;</button>
     <button id="button">Click for random</button>
-    <img id="img">
+</div>
+    <a id="a"><img id="img"></a>
     <script src="comicdata.js"></script>
     <script src="randomegs.js"></script>
   </body>
