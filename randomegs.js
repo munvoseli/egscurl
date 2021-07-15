@@ -15,6 +15,17 @@ function setComic (i)
     elButton.innerText = nComic + 1;
 }
 
+function checkurl ()
+{
+    var pos = window.location.href.indexOf ("?");
+    if (pos >= 0)
+    {
+	var comicid = Number (window.location.href.substring (pos + 1)) - 1;
+	setComic (comicid);
+    }
+}
+checkurl ();
+
 function randomComic () {setComic (Math.floor (Math.random() * cComic))};
 function nextComic () {setComic (nComic + 1)};
 function prevComic () {setComic (nComic - 1)};
