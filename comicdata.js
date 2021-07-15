@@ -2931,4 +2931,4 @@ balance-038 1625459116-bal-2107-05-038-styurgp.png
 balance-039 1625628733-bal-2107-07-039-siavlk.png
 balance-040 1625796307-bal-2107-09-040-sjhgdf.png
 balance-041 1626059640-bal-2107-12-041-sfghff.png
-balance-042 1626372533-bal-2107-14-042-znnounce2.png`).split("\n");
+balance-042 1626372533-bal-2107-14-042-znnounce2.png`.split("\n");
