@@ -2925,4 +2925,10 @@ balance-032 1624245764-bal-2106-21-032-sloiufo.png
 balance-033 1624425153-bal-2106-23-033-slogfgfo.png
 balance-034 1624603615-bal-2106-25-034-sfsdfo.png
 balance-035 1624848490-bal-2106-28-035-sfsfdghfgo.png
-balance-036 1625032352-bal-2106-30-036-ssdfo.png`.split("\n"); 
+balance-036 1625032352-bal-2106-30-036-ssdfo.png
+balance-037 1625215039-bal-2107-02-037-ssdfp.png
+balance-038 1625459116-bal-2107-05-038-styurgp.png
+balance-039 1625628733-bal-2107-07-039-siavlk.png
+balance-040 1625796307-bal-2107-09-040-sjhgdf.png
+balance-041 1626059640-bal-2107-12-041-sfghff.png
+balance-042 1626372533-bal-2107-14-042-znnounce2.png`).split("\n");
