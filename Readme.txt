@@ -1,3 +1,8 @@
+If you've forgotten how to use this, then run update.sh and it should work out
+
+
+
+
 For egs.cpp:
 
 $ g++ egs.cpp -lcurl ; ./a.out
