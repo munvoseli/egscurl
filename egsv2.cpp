@@ -133,7 +133,7 @@ void vLoadLastLine (Shive * shivep)
 			shivep->file.seekg (-2, std::ios_base::cur);
 	}
 	std::string lastLine;
-	std::istream::streampos pos = shivep->file.tellg ();
+	std::streampos pos = shivep->file.tellg ();
 	getline (shivep->file, lastLine);
 	shivep->file.seekg (pos, std::ios::beg);
 	vLoadShiveFromLine (shivep, lastLine);
